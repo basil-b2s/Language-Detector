@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style.css">
+    <title>Language Detector</title>
+</head>
+<body>
+    <div class = "top">
+        <h1 class="heading">Language Detector</h1>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <form action="\predict", method="POST">
+        <textarea name="text" class="text_area"  cols="40" rows="3" required="true" value="Type Here....."></textarea>
+        <br>
+        <input type="submit" value="Detect Language" class = "button">
+    </form>
+    <br>
+    <br>
+    <h1 style="color:rgb(209, 209, 209);" >{{ pred }}</h1>
+
+</body>
+</html>
