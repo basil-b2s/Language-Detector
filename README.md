@@ -1,5 +1,7 @@
 # Language-Detector
 
+### Link for the app - https://language--detector.herokuapp.com/
+
 ### This is a language detector model which can predict 17 different languages.
 
 ### 1) English
