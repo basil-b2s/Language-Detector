@@ -1,4 +1,4 @@
-# Language-Detector
+# Language Detector
 
 ### Link for the app - https://language--detector.herokuapp.com/
 
