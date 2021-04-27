@@ -11,12 +11,12 @@
 ### 5) Kannada
 ### 6) French
 ### 7) Spanish
-### 8) Portugeese
+### 8) Portuguese
 ### 9) Italian
 ### 10) Russian
 ### 11) Sweedish
 ### 12) Dutch
-### 13) Arabich
+### 13) Arabic
 ### 14) Turkish
 ### 15) German
 ### 16) Danish
