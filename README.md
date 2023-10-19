@@ -1,6 +1,6 @@
 # Language Detector
 
-### Link for the app - https://language--detector.herokuapp.com/
+### Link for dataset : https://www.kaggle.com/datasets/basilb2s/language-detection
 
 ### This is a language detector model which can predict 17 different languages.
 
